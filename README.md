@@ -25,9 +25,7 @@ An end-to-end data analytics project built on the **Adventure Works** database. 
 
 > Territory sales ranking with revenue totals and percentage share, plus a stacked bar chart of units sold by category and territory.
 
-
-
-> Download Dashboard:
+Download Dashboard: 
 (https://drive.google.com/file/d/1t0UEDWUIjnn8ho75XpQWnJ8SkTEE8L6n/view?usp=drive_link)
 ---
 
