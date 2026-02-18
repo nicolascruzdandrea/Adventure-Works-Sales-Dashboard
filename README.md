@@ -6,21 +6,21 @@ An end-to-end data analytics project built on the **Adventure Works** database. 
 
 ## 📊 Dashboard Preview
 
-### Overview
+## Overview
 <img width="1412" height="765" alt="OVERVIEW" src="https://github.com/user-attachments/assets/fa26ea6b-bb66-41f3-8dd3-11bec025e4f2" />
 
 > High-level KPIs: total sales ($123M), total customers (20K), total products (121K), and average sales per customer ($6.44M). Includes a bar chart of sales by territory and a ranking of the top 20 customers.
-### Products
+## Products
 <img width="1340" height="776" alt="PRODUCTS" src="https://github.com/user-attachments/assets/45db34c8-152d-4510-8032-e65b6c6794d4" />
 
 > Product sales ranked by category and subcategory, a bubble chart of the top 10 subcategories, and a treemap showing revenue share by product category (Bikes, Components, Clothing, Accessories).
 
-### Customers
+## Customers
 <img width="1362" height="780" alt="CUSTOMERS" src="https://github.com/user-attachments/assets/00971141-e33c-45c6-b2b9-95441ac02084" />
 
 > Top 5 customers per territory broken down by product category: Bikes, Clothing, Accessories, and Components.
 
-### Territory
+## Territory
 <img width="1381" height="770" alt="TERRITORY" src="https://github.com/user-attachments/assets/9cb67157-5c4d-46c3-9a90-95f8fb42e123" />
 
 > Territory sales ranking with revenue totals and percentage share, plus a stacked bar chart of units sold by category and territory.
